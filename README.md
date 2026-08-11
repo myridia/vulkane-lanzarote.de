@@ -1,2 +1,2 @@
-# vulkane-lanzarote.de-
+# vulkane-lanzarote.de
 test static 
